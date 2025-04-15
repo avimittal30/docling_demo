@@ -20,9 +20,6 @@ This repository contains a Jupyter Notebook where I leveraged Natural Language P
 - `PyMuPDF` / `pdfplumber` – PDF parsing
 - `pandas` – Data manipulation
 - `nltk`, `spaCy`, or `transformers` – NLP processing
-- `matplotlib`, `seaborn` – Visualizations
 
----
 
-## 📂 Repository Structure
 
