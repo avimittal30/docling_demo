@@ -1,6 +1,6 @@
-# 📊 IBM Annual Report Insights using NLP
+# 📊 IBM Annual Report Insights using Docling
 
-This repository contains a Jupyter Notebook where I leveraged Natural Language Processing (NLP) techniques to extract key insights from **IBM’s Annual Report**. The project demonstrates how to process both unstructured text and structured content like tables from PDF documents, making it easier to understand a company's performance and strategic direction.
+This repository contains a Jupyter Notebook where I leveraged IBM's docling library to extract key insights from **IBM’s Annual Report**. The project demonstrates how to process both unstructured text and structured content like tables from PDF documents, making it easier to understand a company's performance and strategic direction.
 
 ---
 
