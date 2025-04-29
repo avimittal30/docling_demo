@@ -8,8 +8,8 @@ This repository contains a Jupyter Notebook where I leveraged IBM's docling libr
 
 - 🔍 **Text Extraction**: Extracted raw text content from the annual report PDF using Python libraries.
 - 💡 **Insight Generation**: Applied NLP techniques to summarize important narrative sections such as Management Discussion and Financial Overview.
-- 📊 **Table Extraction**: Parsed and analyzed tables to extract quantitative data, such as revenue by segment and year-over-year performance.
-- 📈 **Visualization (Optional)**: Plotted key financial metrics to visualize trends (if included).
+- 📊 **Table Extraction**: Parsed and analyzed tables to extract quantitative data
+
 
 ---
 
